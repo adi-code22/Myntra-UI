@@ -28,15 +28,11 @@ class stff2 extends StatelessWidget {
                 Expanded(
                   flex: 3,
                   child: Container(
-                    color: Colors.white38,
+                    decoration: BoxDecoration(
+                        image: DecorationImage(
+                            image: NetworkImage(url1), fit: BoxFit.cover)),
                     child: Stack(
                       children: [
-                        Container(
-                          child: Image.network(
-                            url1,
-                            fit: BoxFit.cover,
-                          ),
-                        ),
                         Positioned(
                           top: 20,
                           child: Container(
@@ -85,7 +81,7 @@ class stff2 extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Column(
-                              mainAxisAlignment: MainAxisAlignment.start,
+                              crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Align(
                                   alignment: Alignment.center,
@@ -98,9 +94,9 @@ class stff2 extends StatelessWidget {
                                   ),
                                 ),
                                 Align(
-                                  alignment: Alignment.centerLeft,
+                                  alignment: Alignment.center,
                                   child: Text(
-                                    "Men's Sneakers",
+                                    "    Men's Sneakers",
                                     style: TextStyle(
                                         color: Colors.black54, fontSize: 13),
                                   ),
@@ -148,15 +144,13 @@ class stff2 extends StatelessWidget {
                 Expanded(
                   flex: 3,
                   child: Container(
-                    color: Colors.white38,
+                    decoration: BoxDecoration(
+                        image: DecorationImage(
+                      fit: BoxFit.cover,
+                      image: NetworkImage(url2),
+                    )),
                     child: Stack(
                       children: [
-                        Container(
-                          child: Image.network(
-                            url2,
-                            fit: BoxFit.cover,
-                          ),
-                        ),
                         Positioned(
                           top: 220,
                           left: 5,
@@ -191,7 +185,7 @@ class stff2 extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Column(
-                              mainAxisAlignment: MainAxisAlignment.start,
+                              crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Align(
                                   alignment: Alignment.center,
@@ -204,9 +198,9 @@ class stff2 extends StatelessWidget {
                                   ),
                                 ),
                                 Align(
-                                  alignment: Alignment.centerLeft,
+                                  alignment: Alignment.center,
                                   child: Text(
-                                    "Men's Sneakers",
+                                    "    Men's Sneakers",
                                     style: TextStyle(
                                         color: Colors.black54, fontSize: 13),
                                   ),

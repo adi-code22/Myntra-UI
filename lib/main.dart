@@ -159,7 +159,21 @@ class loadin1 extends StatelessWidget {
                 '898',
                 'https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/19/2838ca0b-d645-4e81-b8d2-c653dbb6f72a1624120057030-1.jpg',
                 'Newfeel Deca',
-                '899')
+                '899'),
+            stff2(
+                'https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15022294/2021/8/23/df2a9da7-b95d-4217-8ca4-0214e60cd5c81629704091359-Nike-Quest-4-Mens-Running-Shoe-4281629704091058-1.jpg',
+                'Nike',
+                '2,997',
+                'https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15385012/2022/2/11/595d1781-434a-466f-89f4-3d35694214b01644573549368-Nike-Quest-3-Mens-Running-Shoes-3461644573548934-1.jpg',
+                'Nike',
+                '5395'),
+            stff2(
+                'https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16959612/2022/1/28/c6bd34d5-eab5-4b1d-9d7d-459ec2e45d7d1643367261145ASIANMenGrey1.jpg',
+                'Asian',
+                '849',
+                'https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15778982/2021/10/25/705a529a-97a1-4b60-bdf2-64bab0d151031635184404737ProvogueMenBlackSolidFormalDebys1.jpg',
+                'Provogue',
+                '949')
           ],
         ),
       ),
