@@ -1,4 +1,4 @@
-# myntra
+# MYNTRA App UI
 
 A new Flutter project.
 
