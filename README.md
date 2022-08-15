@@ -75,10 +75,6 @@ Twitter [@AdityakrishnanP](https://twitter.com/AdityakrishnanP)
 
 Project Link: [https://github.com/adi-code22/Myntra-UI](https://github.com/adi-code22/Myntra-UI)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
